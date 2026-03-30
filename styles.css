@@ -5,6 +5,10 @@ div.section1 {
         font-size: 40px;
     }
 }
+div.contact {
+    margin-top: 150px;
+    background-color:lavender;
+}
 h1 {
     font-size:50px;
     color:deeppink;
