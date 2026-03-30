@@ -1,7 +1,9 @@
-img {
-    display: block;
-    margin: 0 auto;
-    max-width: 200px;
+div.section1 {
+    background-color: lavenderblush;
+    button {
+        margin-left: 600px;
+        font-size: 40px;
+    }
 }
 h1 {
     font-size:50px;
@@ -11,9 +13,9 @@ h1 {
 }
 h2 {
     margin-top:100px;
-    font-size:30px;
+    margin-left:90px;
+    font-size:35px;
     color:deeppink;
-    text-align: center;
     font-family:'Courier New';
 }
 p {
@@ -22,7 +24,7 @@ p {
     font-family:'Courier New';
 }
 button {
-    margin-top:50px;
+    margin:10px;
     background-color:lightpink;
     cursor: pointer;
 
@@ -30,7 +32,7 @@ button {
     border-radius: 25px;
 
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     color:deeppink;
 }
 button:hover {
