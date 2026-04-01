@@ -1,5 +1,4 @@
-
-.header {
+.homeHeader {
     img {
         width: 150px;
         margin-left: 60px;
@@ -8,12 +7,6 @@
 
 .button-header {
     margin:10px;
-    background-color:lightpink;
-    cursor: pointer;
-
-    border: none;
-    border-radius: 25px;
-
     text-align: center;
     font-size: 25px;
     color:deeppink;
@@ -40,19 +33,12 @@
     button {
         margin-bottom: 100px;
         margin-left: 600px;
-        background-color:lightpink;
-        cursor: pointer;
-
-        border: none;
-        border-radius: 25px;
 
         text-align: center;
         font-size: 40px;
         color:deeppink;
     }
     p {
-        font-family: 'Courier New';
-        font-size: 22px;
         margin-bottom: 80px;
         margin-left: 90px;
     }
@@ -70,11 +56,23 @@
     }
 }
 
-.homeContact {
-    display: flex;
-    gap: 50px;
+.execsHeader {
     img {
         width: 150px;
+        margin-left: 70px;
+    }
+    button {
+        margin-left: 1050px;
+        text-align: center;
+        font-size: 25px;
+        color:deeppink;
+
+    }
+}
+.execs {
+    text-align: center;
+    img {
+        width: 400px;
     }
 }
 
@@ -90,6 +88,19 @@ h2 {
     font-size:40px;
     color:deeppink;
     font-family:'Courier New';
+}
+
+p {
+        font-family: 'Courier New';
+        font-size: 22px;
+    }
+
+button {
+    background-color:lightpink;
+    cursor: pointer;
+
+    border: none;
+    border-radius: 25px;
 }
 
 button:hover {
