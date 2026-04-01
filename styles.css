@@ -65,8 +65,20 @@
 
     }
 }
-.execs {
+.execsPresident {
+    padding-bottom: 50px;
     text-align: center;
+    img {
+        width: 400px;
+    }
+}
+.execs {
+    margin-left:90px;
+    padding-bottom: 50px;
+}
+.execsImgText {
+    display: flex;
+    gap: 20px;
     img {
         width: 400px;
     }
