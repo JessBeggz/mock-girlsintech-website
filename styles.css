@@ -4,14 +4,12 @@
         margin-left: 60px;
     }
 }
-
 .button-header {
     margin:10px;
     text-align: center;
     font-size: 25px;
     color:deeppink;
 }
-
 .home0 {
     img {
         display: block;
@@ -19,7 +17,6 @@
         margin: 150px auto;
     }
 }
-
 .home1 {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -43,7 +40,6 @@
         margin-left: 90px;
     }
 }
-
 .homeEvents {
     display: flex;
     gap: 50px;
@@ -76,33 +72,57 @@
     }
 }
 
+.previousEventsHeader {
+    padding-bottom: 50px;
+    img {
+        width: 150px;
+        margin-left: 70px;
+    }
+    button {
+        margin-left: 1050px;
+        text-align: center;
+        font-size: 25px;
+        color:deeppink;
+    }
+}
+.previousEvents0 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.previousEvents1 {
+    text-align: center;
+    h2 {
+        margin-left: 0px;
+    }
+    img {
+        width: 400px;
+        margin-left: 30px;
+    }
+}
+
 h1 {
     font-size:50px;
     color:deeppink;
     text-align: center;
     font-family:'Courier New';
 }
-
 h2 {
     margin-left:90px;
     font-size:40px;
     color:deeppink;
     font-family:'Courier New';
 }
-
 p {
         font-family: 'Courier New';
         font-size: 22px;
     }
-
 button {
     background-color:lightpink;
     cursor: pointer;
-
     border: none;
     border-radius: 25px;
 }
-
 button:hover {
     background-color:deeppink;
     color:lightpink;
