@@ -19,7 +19,7 @@
 }
 .home1 {
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     width: 100%;
     background-color: lavenderblush;
 
@@ -48,7 +48,7 @@
     }
     p {
         margin-top: 0px;
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
 }
 
@@ -98,6 +98,25 @@
     img {
         width: 400px;
         margin-left: 30px;
+    }
+}
+
+.upcomingEventsHeader {
+    padding-bottom: 50px;
+    img {
+        width: 150px;
+        margin-left: 70px;
+    }
+    button {
+        margin-left: 1050px;
+        text-align: center;
+        font-size: 25px;
+        color:deeppink;
+    }
+}
+.upcomingEvents {
+    p {
+        text-align:center;
     }
 }
 
