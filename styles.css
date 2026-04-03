@@ -106,12 +106,12 @@
         color:deeppink;
     }
 }
-.previousEvents0 {
+.previousEventsTitle {
     display: flex;
     justify-content: center;
     text-align: center;
 }
-.previousEvents1 {
+.previousEvents {
     text-align: center;
     h2 {
         margin-left: 0px;
@@ -120,6 +120,9 @@
         width: 400px;
         margin-left: 30px;
     }
+}
+.previousEventsEach {
+    padding-bottom: 70px;
 }
 
 .upcomingEventsHeader {
