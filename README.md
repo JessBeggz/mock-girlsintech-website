@@ -16,10 +16,9 @@ A mock website designed and developed for UBCO Girls in Tech club as part of a c
 - Apply foundational front-end web development concepts.
 - Organize and present information in a clear and accessible manner.
 
-## How to Run
+## Live Demo
 
-1. Clone or download this repository.
-2. Open `index.html` in a web browser.
+[View the website]([https://yourusername.github.io/girls-in-tech-website/](https://jessbeggz.github.io/mock-girlsintech-website/index.html))
 
 ## Project Status
 
