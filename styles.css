@@ -1,0 +1,172 @@
+.homeHeader {
+    img {
+        width: 150px;
+        margin-left: 60px;
+    }
+}
+.button-header {
+    margin:10px;
+    text-align: center;
+    font-size: 25px;
+    color:deeppink;
+}
+.home0 {
+    img {
+        display: block;
+        width: 600px;
+        margin: 150px auto;
+    }
+}
+.home1 {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 100%;
+    background-color: lavenderblush;
+
+    img {
+    width: 100px;
+    margin-left: 10px;
+    }
+    button {
+        margin-bottom: 100px;
+        margin-left: 600px;
+
+        text-align: center;
+        font-size: 40px;
+        color:deeppink;
+    }
+    p {
+        margin-bottom: 80px;
+        margin-left: 90px;
+    }
+}
+.homeEvents {
+    display: flex;
+    gap: 50px;
+    button {
+        margin-left: 90px;
+    }
+    p {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+}
+
+.execsHeader {
+    img {
+        width: 150px;
+        margin-left: 70px;
+    }
+    button {
+        margin-left: 1050px;
+        text-align: center;
+        font-size: 25px;
+        color:deeppink;
+
+    }
+}
+.execsPresident {
+    padding-bottom: 50px;
+    text-align: center;
+    img {
+        width: 300px;
+    }
+}
+.execs {
+    margin-left:90px;
+    padding-bottom: 50px;
+}
+.execsImgText {
+    display: flex;
+    gap: 20px;
+    text {
+        padding-top: 50px;
+    }
+    img {
+        width: 300px;
+    }
+}
+.execsImgText img {
+        width: 300px;
+}
+.execsImgText .text {
+    padding-top: 100px;
+}
+
+.previousEventsHeader {
+    padding-bottom: 50px;
+    img {
+        width: 150px;
+        margin-left: 70px;
+    }
+    button {
+        margin-left: 1050px;
+        text-align: center;
+        font-size: 25px;
+        color:deeppink;
+    }
+}
+.previousEventsTitle {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.previousEvents {
+    text-align: center;
+    h2 {
+        margin-left: 0px;
+    }
+    img {
+        width: 400px;
+        margin-left: 30px;
+    }
+}
+.previousEventsEach {
+    padding-bottom: 70px;
+}
+
+.upcomingEventsHeader {
+    padding-bottom: 50px;
+    img {
+        width: 150px;
+        margin-left: 70px;
+    }
+    button {
+        margin-left: 1050px;
+        text-align: center;
+        font-size: 25px;
+        color:deeppink;
+    }
+}
+.upcomingEvents {
+    p {
+        text-align:center;
+    }
+}
+
+h1 {
+    font-size:50px;
+    color:deeppink;
+    text-align: center;
+    font-family:'Courier New';
+}
+h2 {
+    margin-left:90px;
+    font-size:40px;
+    color:deeppink;
+    font-family:'Courier New';
+}
+p {
+        font-family: 'Courier New';
+        font-size: 22px;
+    }
+button {
+    background-color:lightpink;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+}
+button:hover {
+    background-color:deeppink;
+    color:lightpink;
+}
