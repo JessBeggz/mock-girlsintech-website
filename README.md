@@ -18,7 +18,7 @@ A mock website designed and developed for UBCO Girls in Tech club as part of a c
 
 ## Live Demo
 
-[View the website]([https://yourusername.github.io/girls-in-tech-website/](https://jessbeggz.github.io/mock-girlsintech-website/index.html))
+[View the live website](https://jessbeggz.github.io/mock-girlsintech-website/index.html)
 
 ## Project Status
 
